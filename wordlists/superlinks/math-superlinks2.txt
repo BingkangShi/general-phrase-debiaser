@@ -1,0 +1,114 @@
+countable
+algorithms
+algorithm
+implementation
+computational complexity
+four color theorem
+optimal sphere packing
+P versus NP problem
+NP problem
+computationally difficult
+Markov chain
+gombinatorics
+subsets
+subset
+geometric shapes
+geometric shape
+graph theory
+hypergraphs
+cryptography
+coding theory
+error correcting codes
+error correcting code
+matroid theory
+discrete geometry
+discrete probability distribution
+discrete probability distributions
+game theory
+continuous game
+continuous games
+chess
+poker
+discrete optimization
+combinatorial optimization
+integer programming
+constraint programming
+mathematical logic
+set theory
+philosophy
+infinite sets
+infinite set
+actually infinite
+infinity
+enumeration
+cantor's diagonal argument
+diagonal argument
+controversy over Cantor's set theory
+Cantor's set theory
+mathematical rigour
+formalized set theory
+peano arithmetic
+mathematical abstraction
+formalism
+consistent formal system
+intuitionistic logic
+law of excluded middle
+model theory
+proof theory
+type theory
+computability theory
+computational complexity theory
+complexity theory
+compiler
+program certification
+proof assistants
+computer science
+statistics
+probability theory
+decision science
+decision sciences
+random sampling
+experiment
+experiments
+observational studies
+observational study
+statistical models
+statistical model
+inference
+model selection
+estimation
+predictions
+prediction
+tested
+test
+new data
+Statistical theory
+decision problem
+decision problems
+risk
+expected loss
+procedure
+parameter estimation
+hypothesis testing
+selecting the best
+mathematical statistics
+objective function
+cost
+optimization
+decision sciences
+operations research
+control theory
+mathematical economics
+computational mathematic
+computational mathematics
+mathematical problem
+mathematical problems
+numerical analysis
+analysis
+functional analysis
+approximation theory
+approximation
+discretization
+rounding errors
+computer algebra
+symbolic computation

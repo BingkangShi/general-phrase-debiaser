@@ -1,0 +1,252 @@
+math
+mathematic
+mathematics
+addition
+subtraction
+multiplication
+division
+computation
+number theory
+algebra
+geometry
+analysis
+academic discipline
+abstract objects
+abstractions
+reason
+prove
+deductive rule
+deductive rules
+axiom
+axioms
+theorem
+theorems
+statistics
+game theory
+applied mathematics
+pure mathematics
+integer factorization
+RSA cryptosystem
+computer networks
+Elements
+arithmetic
+natural numbers
+fractions
+infinitesimal calculus
+scientific discoveries
+axiomatic method
+mathematical notation
+formulas
+calculus
+differential calculus
+integral calculus
+continuous functions
+nonlinear relationships
+variables
+combinatorics
+axiomatic method
+number theory
+higher arithmetic
+mathematical logic
+numbers
+natural numbers
+integers 
+rational numbers
+numerical calculations
+scheme theory
+algebraic geometry
+category theory
+homological algebra
+prime numbers
+analytic number theory
+algebraic number theory
+geometry of numbers
+diophantine equations
+transcendence theory
+lines
+angles
+circles
+surveying
+architecture
+proofs
+measurement
+Euclidean space
+Cartesian coordinates
+real numbers
+number line
+line segments
+synthetic geometry
+graph of functions
+differential geometry
+implicit equations
+polynomial equations
+algebraic geometry
+non-Euclidean geometries
+parallel postulate
+space
+Projective geometry
+Affine geometry
+Manifold theory
+Riemannian geometry
+Algebraic geometry
+Topology
+Algebraic topology
+Discrete geometry
+Convex geometry
+Complex geometry
+equations
+mathematical formulas
+linear equations
+linear algebra
+matrices
+modular integers
+geometric transformations
+algebraic structure
+elementary algebra
+abstract algebra
+group theory
+field theory
+vector spaces
+ring theory
+commutative algebra
+homological algebra
+Lie algebra
+Lie group
+Boolean algebra
+mathematical objects
+universal algebra
+category theory
+mathematical structure
+topological spaces
+algebraic topology
+Calculus and analysis
+Calculus
+Mathematical analysis
+function
+real analysis
+complex analysis
+complex numbers
+Multivariable calculus
+Functional analysis
+Integration
+measure theory
+potential theory
+probability theory
+continuum
+Ordinary differential equations
+Partial differential equations
+Numerical analysis
+countable
+algorithms
+algorithm
+implementation
+computational complexity
+four color theorem
+optimal sphere packing
+P versus NP problem
+NP problem
+computationally difficult
+Markov chain
+gombinatorics
+subsets
+subset
+geometric shapes
+geometric shape
+graph theory
+hypergraphs
+cryptography
+coding theory
+error correcting codes
+error correcting code
+matroid theory
+discrete geometry
+discrete probability distribution
+discrete probability distributions
+game theory
+continuous game
+continuous games
+chess
+poker
+discrete optimization
+combinatorial optimization
+integer programming
+constraint programming
+mathematical logic
+set theory
+philosophy
+infinite sets
+infinite set
+actually infinite
+infinity
+enumeration
+cantor's diagonal argument
+diagonal argument
+controversy over Cantor's set theory
+Cantor's set theory
+mathematical rigour
+formalized set theory
+peano arithmetic
+mathematical abstraction
+formalism
+consistent formal system
+intuitionistic logic
+law of excluded middle
+model theory
+proof theory
+type theory
+computability theory
+computational complexity theory
+complexity theory
+compiler
+program certification
+proof assistants
+computer science
+statistics
+probability theory
+decision science
+decision sciences
+random sampling
+experiment
+experiments
+observational studies
+observational study
+statistical models
+statistical model
+inference
+model selection
+estimation
+predictions
+prediction
+tested
+test
+new data
+Statistical theory
+decision problem
+decision problems
+risk
+expected loss
+procedure
+parameter estimation
+hypothesis testing
+selecting the best
+mathematical statistics
+objective function
+cost
+optimization
+decision sciences
+operations research
+control theory
+mathematical economics
+computational mathematic
+computational mathematics
+mathematical problem
+mathematical problems
+numerical analysis
+analysis
+functional analysis
+approximation theory
+approximation
+discretization
+rounding errors
+computer algebra
+symbolic computation

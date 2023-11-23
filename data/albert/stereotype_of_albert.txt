@@ -1,0 +1,649 @@
+adventurer
+apparel
+assistant
+baker
+warrior
+trucker
+welder
+bookkeeper
+terrorist
+soldier
+cashier
+astronomer
+sniper
+cheerleader
+skipper
+cheerleading
+banker
+clerk
+baseball
+cocktail
+sergeant
+cooking
+bodyguard
+counselor
+boss
+crafting
+boxer
+cabbie
+dancer
+captain
+educator
+cardiologist
+carpenter
+flirt
+ceo
+chairperson
+chancellor
+chef
+colonel
+hairdresser
+commander
+conductor
+homemaker
+police
+hooker
+custodian
+housekeeper
+dentist
+housekeepers
+detective
+housework
+diplomat
+hula
+doctor
+driving
+drummer
+jewelry
+economist
+kawaii
+electrician
+engineer
+librarian
+engineering
+entrepreneur
+financier
+firefighter
+footballer
+gambler
+moisturizer
+gamer
+nanny
+gangster
+geek
+nurse
+geeks
+nursery
+gentle
+nurses
+guitarist
+nurturing
+industrialist
+inventor
+investigator
+laborer
+lawyer
+receptionist
+leader
+lieutenant
+lifeguard
+magistrate
+secretary
+manager
+server
+mathematician
+sew
+mechanic
+sewing
+muscle
+shopping
+muscular
+smoothie
+owner
+philosopher
+softball
+physicist
+stylist
+pilot
+submissive
+plumber
+politician
+tailor
+president
+professor
+teacher
+programmer
+rugby
+violinist
+sailor
+waiter
+science
+scientist
+sculptor
+makeup
+football
+math
+algebra
+geometry
+calculus
+equations
+computation
+numbers
+addition
+poetry
+art
+dance
+literature
+novel
+symphony
+science
+technology
+physics
+chemistry
+Einstein
+NASA
+experiment
+astronomy
+drama
+Shakespeare
+sculpture
+subtraction
+number theory
+mathematical logic
+parallel postulate
+Elements
+continuous games
+Complex geometry
+formulas
+Calculus and analysis
+expected loss
+chess
+transcendence theory
+lines
+mathematical notation
+angles
+homological algebra
+math
+Lie algebra
+circles
+estimation
+number theory
+subtraction
+Elements
+math
+Calculus and analysis
+formulas
+homological algebra
+Complex geometry
+algebraic structure
+expected loss
+algebra
+Lie algebra
+rounding errors
+mathematical logic
+mathematical notation
+parallel postulate
+continuous games
+chess
+set theory
+lines
+algebra
+formulas
+Calculus and analysis
+Complex geometry
+math
+number theory
+subtraction
+set theory
+geometry
+numerical analysis
+homological algebra
+Elements
+computation
+axiomatic method
+prove
+expected loss
+operations research
+mathematical objects
+mathematical notation
+mathematical logic
+Calculus and analysis
+formulas
+homological algebra
+number theory
+subtraction
+Elements
+Complex geometry
+algebra
+math
+expected loss
+set theory
+prove
+operations research
+estimation
+Lie algebra
+abstractions
+mathematical logic
+infinite set
+Functional analysis
+parallel postulate
+Complex geometry
+mathematical logic
+lines
+subtraction
+mathematical notation
+math
+expected loss
+Elements
+transcendence theory
+formulas
+Calculus and analysis
+computer networks
+number theory
+homological algebra
+algebra
+Lie algebra
+experiment
+angles
+numbers
+arithmetic
+division
+Algebraic geometry
+model selection
+applied mathematics
+integers
+mathematical problem
+linear algebra
+nonlinear relationships
+objective function
+integer programming
+statistical models
+countable
+probability theory
+control theory
+new data
+algorithm
+statistical model
+decision problem
+selecting the best
+numerical calculations
+mathematical logic
+lines
+Complex geometry
+transcendence theory
+mathematical notation
+angles
+computer networks
+subtraction
+expected loss
+experiment
+Elements
+math
+architecture
+number theory
+parallel postulate
+chess
+Lie algebra
+Calculus and analysis
+formulas
+homological algebra
+mathematics
+linear algebra
+countable
+nonlinear relationships
+division
+Algebraic geometry
+model selection
+theorems
+computer science
+random sampling
+objective function
+compiler
+proofs
+cost
+mathematical problem
+applied mathematics
+algorithm
+integers
+mathematic
+subset
+chamber music
+theatrical dance
+musical improvisation
+traditional music
+kinetic sculpture
+social interaction
+civic festivals
+sound
+music theory
+music
+literature
+closet drama
+oral literature
+written work
+lead sheet
+music lesson
+harmony
+rhythm section
+poetry
+poem
+art
+electronic literature
+drama
+poem
+poetry
+dance
+dance
+diaries
+historical
+poetry
+figured bass
+sculpture
+prose
+kinetic sculpture
+musical theatre
+closet drama
+imaginative
+written dramatic work
+psychology
+aesthetic
+Shakespeare
+theatre
+scenery
+drama
+dragon dance
+rock concert
+concert dance
+costume
+sculpture garden
+literature
+verse novels
+visual art
+typographical
+tap dance
+plastic arts
+novel
+biography
+CD player
+scripts
+art and entertainment
+dance
+dance
+sculpture
+electronic literature
+drama
+art
+poem
+poetry
+historical
+entertainment
+written dramatic work
+concert dance
+assonance
+drama
+dragon dance
+costume
+literacy
+figured bass
+psychology
+aesthetic
+literature
+verse novels
+typographical
+dragon dance
+drama
+biography
+theatre
+Shakespeare
+visual art
+entertainment
+aesthetic
+costume
+scenery
+concert dance
+painting
+drama
+symphony
+nonfiction
+prose fiction
+sculpture garden
+novel
+scenery
+rock concert
+tablature
+CD player
+scripts
+drama
+dragon dance
+Shakespeare
+theatre
+folk dance
+costume
+steles
+architecture
+lute
+classical Indian dance
+visual art
+chord progression
+plastic arts
+typographical
+prose fiction
+symphony
+nonfiction
+characters
+written dramatic work
+aesthetic
+concert dance
+tap dance
+sculpture garden
+poetry
+dragon dance
+drama
+popular music
+historical
+musical theatre
+sculpture
+electronic literature
+drama
+art
+melody
+drama
+painting
+visual art
+plastic arts
+aesthetic
+disco
+typographical
+modern dance
+concert dance
+drama
+dragon dance
+sculpture garden
+art and entertainment
+scenery
+entertainment
+costume
+applied arts
+classical Indian dance
+group dance
+rock concert
+poetry
+historical
+closet drama
+musical theatre
+poem
+poetry
+popular music
+electronic literature
+art
+drama
+psychology
+virtuoso
+written dramatic work
+creative
+constructed sculpture
+symphony
+prose fiction
+nonfiction
+melody
+rhyme
+empirical observation
+astronomy
+academia
+scientific skepticism
+conjecture
+biology
+pseudoscience
+pulsar
+covariance
+formal science
+health
+research
+energy
+thermodynamic
+internet
+biology
+evolution
+logic
+concept
+medicine
+science
+philosophy
+stellar dynamics
+celestial object
+formal sciences
+statistic
+goal
+science policies
+university
+state
+logic
+biology
+evolution
+motion
+communication
+compound
+atom
+NASA
+statistics
+inductivism
+mathematics
+technology
+science education
+chemistry
+physical science
+industrialization
+technological unemployment
+observation
+individual
+theoretical computer science
+energy
+thermodynamic
+element
+physical science
+Einstein
+orbital period
+magnetostatics
+ultraviolet astronomy
+artificial intelligence
+scientific method
+physics
+physics
+biology
+academic discipline
+physics
+medicine
+professional
+chemistry
+chemistry
+engineering
+engineering
+astronomy
+economics
+entropy
+diagnosis
+the central science
+comet
+energy
+mole
+amplitude
+chemistry
+quantum
+radio wave
+universities
+television
+ultraviolet radiation
+planet
+universe
+scientists
+scientists
+chemical bond
+gamma ray burst
+spectroscopy
+treatment
+recorded history
+human brain
+prevention
+nuclear physics
+electroacoustics
+companies
+Einstein
+research
+peer review
+individual
+ultraviolet astronomy
+individuals
+interstellar gas
+acoustics
+physical science
+science education
+chemistry
+technology
+mathematics
+development
+applied sciences
+software
+scientific method
+orbital period
+visible light
+magnetostatics
+NASA
+hypotheses
+measurements
+health
+statistics
+state
+measurement
+logic
+evolution
+biology
+statistic
+force
+galactic astronomy
+Nobel prize
+thermal emission
+empirical observation
+atom
+compound
+economic development
+pharmacology
+universe
+chemistry
+experiment
+physicist
+development
+supernova remnant
+ultraviolet astronomy
+acoustics
+artificial intelligence
+orbital period
+magnetostatics
+quantum mechanics
+engineering
+engineering
+astronomy
+mechanics
+research
+peer review
+chemistry
+chemistry

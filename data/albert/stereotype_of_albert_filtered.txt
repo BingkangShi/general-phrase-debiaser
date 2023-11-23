@@ -1,0 +1,395 @@
+adventurer
+apparel
+assistant
+baker
+warrior
+trucker
+welder
+bookkeeper
+terrorist
+soldier
+cashier
+astronomer
+sniper
+cheerleader
+skipper
+cheerleading
+banker
+clerk
+baseball
+cocktail
+sergeant
+cooking
+bodyguard
+counselor
+boss
+crafting
+boxer
+cabbie
+dancer
+captain
+educator
+cardiologist
+carpenter
+flirt
+ceo
+chairperson
+chancellor
+chef
+colonel
+hairdresser
+commander
+conductor
+homemaker
+police
+hooker
+custodian
+housekeeper
+dentist
+housekeepers
+detective
+housework
+diplomat
+hula
+doctor
+driving
+drummer
+jewelry
+economist
+kawaii
+electrician
+engineer
+librarian
+engineering
+entrepreneur
+financier
+firefighter
+footballer
+gambler
+moisturizer
+gamer
+nanny
+gangster
+geek
+nurse
+geeks
+nursery
+gentle
+nurses
+guitarist
+nurturing
+industrialist
+inventor
+investigator
+laborer
+lawyer
+receptionist
+leader
+lieutenant
+lifeguard
+magistrate
+secretary
+manager
+server
+mathematician
+sew
+mechanic
+sewing
+muscle
+shopping
+muscular
+smoothie
+owner
+philosopher
+softball
+physicist
+stylist
+pilot
+submissive
+plumber
+politician
+tailor
+president
+professor
+teacher
+programmer
+rugby
+violinist
+sailor
+waiter
+science
+scientist
+sculptor
+makeup
+football
+math
+algebra
+geometry
+calculus
+equations
+computation
+numbers
+addition
+poetry
+art
+dance
+literature
+novel
+symphony
+science
+technology
+physics
+chemistry
+Einstein
+NASA
+experiment
+astronomy
+drama
+Shakespeare
+sculpture
+subtraction
+number theory
+mathematical logic
+parallel postulate
+Elements
+continuous games
+Complex geometry
+formulas
+Calculus and analysis
+expected loss
+chess
+transcendence theory
+lines
+mathematical notation
+angles
+homological algebra
+math
+Lie algebra
+circles
+estimation
+algebraic structure
+algebra
+rounding errors
+set theory
+geometry
+numerical analysis
+computation
+axiomatic method
+prove
+operations research
+mathematical objects
+abstractions
+infinite set
+Functional analysis
+computer networks
+experiment
+numbers
+arithmetic
+division
+Algebraic geometry
+model selection
+applied mathematics
+integers
+mathematical problem
+linear algebra
+nonlinear relationships
+objective function
+integer programming
+statistical models
+countable
+probability theory
+control theory
+new data
+algorithm
+statistical model
+decision problem
+selecting the best
+numerical calculations
+architecture
+mathematics
+theorems
+computer science
+random sampling
+compiler
+proofs
+cost
+mathematic
+subset
+chamber music
+theatrical dance
+musical improvisation
+traditional music
+kinetic sculpture
+social interaction
+civic festivals
+sound
+music theory
+music
+literature
+closet drama
+oral literature
+written work
+lead sheet
+music lesson
+harmony
+rhythm section
+poetry
+poem
+art
+electronic literature
+drama
+dance
+diaries
+historical
+figured bass
+sculpture
+prose
+musical theatre
+imaginative
+written dramatic work
+psychology
+aesthetic
+Shakespeare
+theatre
+scenery
+dragon dance
+rock concert
+concert dance
+costume
+sculpture garden
+verse novels
+visual art
+typographical
+tap dance
+plastic arts
+novel
+biography
+CD player
+scripts
+art and entertainment
+entertainment
+assonance
+literacy
+painting
+symphony
+nonfiction
+prose fiction
+tablature
+folk dance
+steles
+lute
+classical Indian dance
+chord progression
+characters
+popular music
+melody
+disco
+modern dance
+applied arts
+group dance
+virtuoso
+creative
+constructed sculpture
+rhyme
+empirical observation
+astronomy
+academia
+scientific skepticism
+conjecture
+biology
+pseudoscience
+pulsar
+covariance
+formal science
+health
+research
+energy
+thermodynamic
+internet
+evolution
+logic
+concept
+medicine
+science
+philosophy
+stellar dynamics
+celestial object
+formal sciences
+statistic
+goal
+science policies
+university
+state
+motion
+communication
+compound
+atom
+NASA
+statistics
+inductivism
+technology
+science education
+chemistry
+physical science
+industrialization
+technological unemployment
+observation
+individual
+theoretical computer science
+element
+Einstein
+orbital period
+magnetostatics
+ultraviolet astronomy
+artificial intelligence
+scientific method
+physics
+academic discipline
+professional
+engineering
+economics
+entropy
+diagnosis
+the central science
+comet
+mole
+amplitude
+quantum
+radio wave
+universities
+television
+ultraviolet radiation
+planet
+universe
+scientists
+chemical bond
+gamma ray burst
+spectroscopy
+treatment
+recorded history
+human brain
+prevention
+nuclear physics
+electroacoustics
+companies
+peer review
+individuals
+interstellar gas
+acoustics
+development
+applied sciences
+software
+visible light
+hypotheses
+measurements
+measurement
+force
+galactic astronomy
+Nobel prize
+thermal emission
+economic development
+pharmacology
+physicist
+supernova remnant
+quantum mechanics
+mechanics

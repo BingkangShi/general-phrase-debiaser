@@ -1,0 +1,20 @@
+Calculus and analysis
+formulas
+rounding errors
+higher arithmetic
+constraint programming
+rational numbers
+decision sciences
+Complex geometry
+algebraic structure
+elementary algebra
+cryptography
+circles
+math
+operations research
+equations
+algebra
+statistics
+discrete probability distributions
+inference
+numerical analysis
