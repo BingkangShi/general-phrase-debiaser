@@ -2,7 +2,7 @@
 code and model files of paper"General Phrase Debiaser: Debiasing Masked Language Models at a Multi-Token Level"
 
 ## Download model parameters
-You can download the debiased model parameters through Google Drive.
+You can download the debiased model parameters through Google Drive. Here is the link: https://drive.google.com/file/d/1v-QEKoDi7pMAA48QgmCZ8qN-AIuhVCuv/view?usp=sharing
 
 The downloaded model file contains three folders, corresponding to three different models: Bert, Albert and DistilBert. Please put these three folders under the "model" path.
 
